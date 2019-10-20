@@ -3,7 +3,7 @@ Hello Folks!
 This is a machine learning and data analysis repository and is open to everyone for contributions
 
 ## Instructions
-This repository is for the machine learning and data analysis projects. All the contributors can make a pull request by completing the questions provided in the repo(answer atleast 1 question before making a pull request), or by adding any of the python files related to DATA ANALYSIS, MACHINE LEARNING and OPENCV or by editing and change the code written in the already provided files.
+This repository is for the machine learning and data analysis projects. All the contributors can make a pull request by completing the questions provided in the repo(answer atleast 1 of the questions before making a pull request), or by adding any of the python files related to DATA ANALYSIS, MACHINE LEARNING and OPENCV or by editing and change the code written in the already provided files.
 
 We've have provided some datasets for the beginners as well, they can work on any of them before making any pull request. 
 P.S. if you have any other datasets with you, feel free to add it in the datasets folder.
