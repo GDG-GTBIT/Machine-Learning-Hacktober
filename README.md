@@ -1,4 +1,5 @@
-# Machine-Learning-Hacktober
+<h1 align ="center">Machine-Learning-Hacktober</h1>
+
 Hello Folks!
 This is a machine learning and data analysis repository and is open to everyone for contributions
 
